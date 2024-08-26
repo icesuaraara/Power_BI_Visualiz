@@ -1,0 +1,81 @@
+slide 1
+
+slide 2
+In this slide, you can see a graph showing the top 5 countries with the 
+most tourists visiting Thailand. The blue line represents the percentage of 
+those tourists who traveled to Chiang Rai Province.
+
+slide 3
+In this slide, you can see a graph showing the top 5 countries with the
+most tourists visiting Chiang Rai Province. This differs significantly from the
+previous graph, as France has the highest percentage of tourists visiting
+Chiang Rai, accounting for 9.0% of all tourists in Thailand.
+
+slide 4
+This image shows the top 5 countries with the highest per capita spending in Thailand 
+for foreign tourists. The UAE leads with the highest per capita spending at 6.51K THB, 
+accounting for 21.44%. Kuwait and Hong Kong follow closely, each with spending above 6K THB 
+per capita, highlighting the strong potential of these tourist markets.
+
+slide 5
+In this slide, you can see the top 5 countries with the highest per capita
+spending when visiting Chiang Rai, which differs from the previous
+slide that showed the average per capita spending for tourists across Thailand.
+
+slide 6
+And here are the top 5 countries contributing the most revenue to Chiang Rai, 
+with China leading the list at 301.03 million, accounting for 33.22%. 
+Although it doesn't rank highest in per capita spending or percentage of 
+visits to Chiang Rai, the large population has allowed it to generate the 
+most revenue in this province.
+
+slide 7
+From the previous slides, our target customer groups that can
+Generate significant revenue for Chiang Rai include:
+
+Highest Percentage of Visits
+Highest Per Capita Spending
+Highest Total Spending
+
+slide 8
+Accommodation, souvenirs, and food expenses are the highest, showing strong areas
+for continued investment. To further boost revenue, it’s important to promote
+spending in lower-expense categories as well. Developing high-valueactivities such as
+cultural toursand enhancing local transportation services can attract moretourist spending
+in these areas. Special packages and promotions that bundle multiple services, including
+accommodation and tours at discounted prices, can also encourage spending in
+these lower-expense categories.
+
+slide 9
+
+slide 10
+Description:
+A mobile application that uses past travel data and user preferences to analyze and recommend
+suitable tourist attractions, restaurants, and activities specifically for tourists in Chiang Rai.
+
+Benefits:
+Enhances tourist satisfaction, improves the travel experience
+and encourages repeat visits to Chiang Rai.
+
+
+slide 11
+The app is designed to collect user preferences and securely store this data in the cloud. 
+The information is then analyzed to generate personalized recommendations that match 
+the user's needs and interests.
+
+slide 12
+Once the user has made their selections, the app will analyze their preferences and choose 
+the most suitable options tailored to them.
+
+slide 13
+This application not only provides personalized recommendations that align with the user's needs 
+and interests but also enhances the overall travel experience by offering unique and user-friendly solutions. 
+By leveraging deep insights, the app continuously improves its services, ensuring that each 
+recommendation is precisely tailored to the individual. Additionally, the app significantly 
+reduces the time spent searching and planning, allowing users to fully enjoy their travels without worrying 
+about complex details. The application can also accurately select hotels, restaurants, or tourist attractions 
+that match the user's preferences, ensuring a truly personalized and satisfying experience. In addition to 
+collecting user data, the application also remembers the locations that users have previously visited to 
+refine and enhance the analysis of their preferences. By leveraging past experiences, the app can provide 
+recommendations that are increasingly accurate and better aligned with the user's needs and interests.
+
